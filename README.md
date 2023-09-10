@@ -11,6 +11,6 @@ After each FOSS session, students will write their thoughts on the session (usin
 
 2. Within the your forked repo, edit the branch with your name. For the first journal entry, you will edit the markdown file *journal_12sept2023.md* with your thoughts on the FOSS session. For subsequent journals, you will create new markdown files with the same naming convention. File editing can be done directly on Github. Alternatively, you can clone the repo to you local machine to do the editing. 
    
-3. Upon finishing the journal writing, you will click on the `contribute' button. This will start a `pull request` to merge the changes in your forked repo back to the original repo (jeffgillan/R4R). Make sure the changes you want to merge are on your named branch.
+3. Upon finishing the journal writing, you will click on the `contribute` button. This will start a `pull request` to merge the changes in your forked repo back to the original repo (jeffgillan/R4R). Make sure the changes you want to merge are on your named branch.
   
 4. I will review the proposed changes of the pull request and then accept them. 
