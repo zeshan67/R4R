@@ -7,4 +7,10 @@ After each FOSS session, students will write their thoughts on the session (usin
 
 ## Instructions
 
-1. Students in R4R will clone this repo (the branch with their name) to their local machine.  Please push your changes to your branch by the following Monday. 
+1. Fork this repository. This will create an exact copy of the repo for your account. Make sure to fork the branches and not just the main branch.
+
+2. Within the your forked repo, edit the branch with your name. For the first journal entry, you will edit the markdown file *journal_12sept2023.md* with your thoughts on the FOSS session. For subsequent journals, you will create new markdown files with the same naming convention. File editing can be done directly on Github. Alternatively, you can clone the repo to you local machine to do the editing. 
+   
+3. Upon finishing the journal writing, you will click on the `contribute' button. This will start a `pull request` to merge the changes in your forked repo back to the original repo (jeffgillan/R4R). Make sure the changes you want to merge are on your named branch.
+  
+4. I will review the proposed changes of the pull request and then accept them. 
