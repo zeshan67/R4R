@@ -8,10 +8,13 @@ The introduction of Linux into windows platform was interesting. This does help 
 The use of GPT 4.00 was very intreaguing. This opens newer dimensions to analytical research.
 
 ### Bud: 
-The GPT 4.0 Quantitigve data analysis and data visualization would be very helpful to my research. I am willing to learn more about it.   
+The GPT 4.0 Quantitigve data analysis and data visualization would be very helpful to my research. I am willing to learn more about it.
+I am more interested now to learn linux based operating system and this new infrastructure for computing. I do want to know the reasons of it being so dear to the programming community.
 
 ### Thorn: 
-Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. 
+I suffered immensely installing the linux windows system into the windows platform. There were multiple error. I had to access multiple machines to finally use it.
+The process of editing files or accessing them is clear. However the process of saving it and how the interaction buttons work is not clear.
 
 ## Additional thought
-Write anything that you think would be important for YOU later on.
+I could not save the edited file from my machine.
+Navigating through files needs some more context from my end.
