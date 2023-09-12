@@ -17,4 +17,4 @@ The process of editing files or accessing them is clear. However the process of 
 
 ## Additional thought
 I could not save the edited file from my machine.
-Navigating through files needs some more context from my end.
+Navigating through files needs some more context from my side.
